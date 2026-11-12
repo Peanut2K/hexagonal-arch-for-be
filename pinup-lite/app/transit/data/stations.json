@@ -1,0 +1,2941 @@
+[
+  {
+    "id": "bts_siam",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "CEN",
+    "canonicalName": "Siam",
+    "thaiName": "สยาม",
+    "aliases": [
+      "Siam",
+      "สยาม",
+      "BTS Siam",
+      "Siam BTS",
+      "CEN",
+      "BTS Silom",
+      "Siam BTS Silom"
+    ]
+  },
+  {
+    "id": "bts_chit_lom",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E1",
+    "canonicalName": "Chit Lom",
+    "thaiName": "ชิดลม",
+    "aliases": [
+      "Chit Lom",
+      "ชิดลม",
+      "BTS Chit Lom",
+      "Chit Lom BTS",
+      "E1",
+      "Chidlom"
+    ]
+  },
+  {
+    "id": "bts_phloen_chit",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E2",
+    "canonicalName": "Phloen Chit",
+    "thaiName": "เพลินจิต",
+    "aliases": [
+      "Phloen Chit",
+      "เพลินจิต",
+      "BTS Phloen Chit",
+      "Phloen Chit BTS",
+      "E2",
+      "Ploenchit"
+    ]
+  },
+  {
+    "id": "bts_nana",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E3",
+    "canonicalName": "Nana",
+    "thaiName": "นานา",
+    "aliases": [
+      "Nana",
+      "นานา",
+      "BTS Nana",
+      "Nana BTS",
+      "E3"
+    ]
+  },
+  {
+    "id": "bts_asok",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E4",
+    "canonicalName": "Asok",
+    "thaiName": "อโศก",
+    "aliases": [
+      "Asok",
+      "อโศก",
+      "BTS Asok",
+      "Asok BTS",
+      "E4",
+      "Asoke"
+    ]
+  },
+  {
+    "id": "bts_phrom_phong",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E5",
+    "canonicalName": "Phrom Phong",
+    "thaiName": "พร้อมพงษ์",
+    "aliases": [
+      "Phrom Phong",
+      "พร้อมพงษ์",
+      "BTS Phrom Phong",
+      "Phrom Phong BTS",
+      "E5",
+      "Promphong"
+    ]
+  },
+  {
+    "id": "bts_thong_lo",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E6",
+    "canonicalName": "Thong Lo",
+    "thaiName": "ทองหล่อ",
+    "aliases": [
+      "Thong Lo",
+      "ทองหล่อ",
+      "BTS Thong Lo",
+      "Thong Lo BTS",
+      "E6",
+      "Thonglor",
+      "Thong Lor"
+    ]
+  },
+  {
+    "id": "bts_ekkamai",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E7",
+    "canonicalName": "Ekkamai",
+    "thaiName": "เอกมัย",
+    "aliases": [
+      "Ekkamai",
+      "เอกมัย",
+      "BTS Ekkamai",
+      "Ekkamai BTS",
+      "E7",
+      "Ekamai"
+    ]
+  },
+  {
+    "id": "bts_phra_khanong",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E8",
+    "canonicalName": "Phra Khanong",
+    "thaiName": "พระโขนง",
+    "aliases": [
+      "Phra Khanong",
+      "พระโขนง",
+      "BTS Phra Khanong",
+      "Phra Khanong BTS",
+      "E8"
+    ]
+  },
+  {
+    "id": "bts_on_nut",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E9",
+    "canonicalName": "On Nut",
+    "thaiName": "อ่อนนุช",
+    "aliases": [
+      "On Nut",
+      "อ่อนนุช",
+      "BTS On Nut",
+      "On Nut BTS",
+      "E9",
+      "Onnut"
+    ]
+  },
+  {
+    "id": "bts_bang_chak",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E10",
+    "canonicalName": "Bang Chak",
+    "thaiName": "บางจาก",
+    "aliases": [
+      "Bang Chak",
+      "บางจาก",
+      "BTS Bang Chak",
+      "Bang Chak BTS",
+      "E10"
+    ]
+  },
+  {
+    "id": "bts_punnawithi",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E11",
+    "canonicalName": "Punnawithi",
+    "thaiName": "ปุณณวิถี",
+    "aliases": [
+      "Punnawithi",
+      "ปุณณวิถี",
+      "BTS Punnawithi",
+      "Punnawithi BTS",
+      "E11"
+    ]
+  },
+  {
+    "id": "bts_udom_suk",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E12",
+    "canonicalName": "Udom Suk",
+    "thaiName": "อุดมสุข",
+    "aliases": [
+      "Udom Suk",
+      "อุดมสุข",
+      "BTS Udom Suk",
+      "Udom Suk BTS",
+      "E12"
+    ]
+  },
+  {
+    "id": "bts_bang_na",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E13",
+    "canonicalName": "Bang Na",
+    "thaiName": "บางนา",
+    "aliases": [
+      "Bang Na",
+      "บางนา",
+      "BTS Bang Na",
+      "Bang Na BTS",
+      "E13"
+    ]
+  },
+  {
+    "id": "bts_bearing",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E14",
+    "canonicalName": "Bearing",
+    "thaiName": "แบริ่ง",
+    "aliases": [
+      "Bearing",
+      "แบริ่ง",
+      "BTS Bearing",
+      "Bearing BTS",
+      "E14"
+    ]
+  },
+  {
+    "id": "bts_samrong",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E15",
+    "canonicalName": "Samrong",
+    "thaiName": "สำโรง",
+    "aliases": [
+      "Samrong",
+      "สำโรง",
+      "BTS Samrong",
+      "Samrong BTS",
+      "E15"
+    ]
+  },
+  {
+    "id": "bts_pu_chao",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E16",
+    "canonicalName": "Pu Chao",
+    "thaiName": "ปู่เจ้า",
+    "aliases": [
+      "Pu Chao",
+      "ปู่เจ้า",
+      "BTS Pu Chao",
+      "Pu Chao BTS",
+      "E16"
+    ]
+  },
+  {
+    "id": "bts_chang_erawan",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E17",
+    "canonicalName": "Chang Erawan",
+    "thaiName": "ช้างเอราวัณ",
+    "aliases": [
+      "Chang Erawan",
+      "ช้างเอราวัณ",
+      "BTS Chang Erawan",
+      "Chang Erawan BTS",
+      "E17"
+    ]
+  },
+  {
+    "id": "bts_royal_thai_naval_academy",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E18",
+    "canonicalName": "Royal Thai Naval Academy",
+    "thaiName": "โรงเรียนนายเรือ",
+    "aliases": [
+      "Royal Thai Naval Academy",
+      "โรงเรียนนายเรือ",
+      "BTS Royal Thai Naval Academy",
+      "Royal Thai Naval Academy BTS",
+      "E18"
+    ]
+  },
+  {
+    "id": "bts_pak_nam",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E19",
+    "canonicalName": "Pak Nam",
+    "thaiName": "ปากน้ำ",
+    "aliases": [
+      "Pak Nam",
+      "ปากน้ำ",
+      "BTS Pak Nam",
+      "Pak Nam BTS",
+      "E19"
+    ]
+  },
+  {
+    "id": "bts_srinagarindra",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E20",
+    "canonicalName": "Srinagarindra",
+    "thaiName": "ศรีนครินทร์",
+    "aliases": [
+      "Srinagarindra",
+      "ศรีนครินทร์",
+      "BTS Srinagarindra",
+      "Srinagarindra BTS",
+      "E20"
+    ]
+  },
+  {
+    "id": "bts_phraek_sa",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E21",
+    "canonicalName": "Phraek Sa",
+    "thaiName": "แพรกษา",
+    "aliases": [
+      "Phraek Sa",
+      "แพรกษา",
+      "BTS Phraek Sa",
+      "Phraek Sa BTS",
+      "E21"
+    ]
+  },
+  {
+    "id": "bts_sai_luat",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E22",
+    "canonicalName": "Sai Luat",
+    "thaiName": "สายลวด",
+    "aliases": [
+      "Sai Luat",
+      "สายลวด",
+      "BTS Sai Luat",
+      "Sai Luat BTS",
+      "E22"
+    ]
+  },
+  {
+    "id": "bts_kheha",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "E23",
+    "canonicalName": "Kheha",
+    "thaiName": "เคหะฯ",
+    "aliases": [
+      "Kheha",
+      "เคหะฯ",
+      "BTS Kheha",
+      "Kheha BTS",
+      "E23"
+    ]
+  },
+  {
+    "id": "bts_ratchathewi",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N1",
+    "canonicalName": "Ratchathewi",
+    "thaiName": "ราชเทวี",
+    "aliases": [
+      "Ratchathewi",
+      "ราชเทวี",
+      "BTS Ratchathewi",
+      "Ratchathewi BTS",
+      "N1"
+    ]
+  },
+  {
+    "id": "bts_phaya_thai",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N2",
+    "canonicalName": "Phaya Thai",
+    "thaiName": "พญาไท",
+    "aliases": [
+      "Phaya Thai",
+      "พญาไท",
+      "BTS Phaya Thai",
+      "Phaya Thai BTS",
+      "N2",
+      "Phayathai"
+    ]
+  },
+  {
+    "id": "bts_victory_monument",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N3",
+    "canonicalName": "Victory Monument",
+    "thaiName": "อนุสาวรีย์ชัยสมรภูมิ",
+    "aliases": [
+      "Victory Monument",
+      "อนุสาวรีย์ชัยสมรภูมิ",
+      "BTS Victory Monument",
+      "Victory Monument BTS",
+      "N3"
+    ]
+  },
+  {
+    "id": "bts_sanam_pao",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N4",
+    "canonicalName": "Sanam Pao",
+    "thaiName": "สนามเป้า",
+    "aliases": [
+      "Sanam Pao",
+      "สนามเป้า",
+      "BTS Sanam Pao",
+      "Sanam Pao BTS",
+      "N4"
+    ]
+  },
+  {
+    "id": "bts_ari",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N5",
+    "canonicalName": "Ari",
+    "thaiName": "อารีย์",
+    "aliases": [
+      "Ari",
+      "อารีย์",
+      "BTS Ari",
+      "Ari BTS",
+      "N5",
+      "Aree"
+    ]
+  },
+  {
+    "id": "bts_saphan_khwai",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N7",
+    "canonicalName": "Saphan Khwai",
+    "thaiName": "สะพานควาย",
+    "aliases": [
+      "Saphan Khwai",
+      "สะพานควาย",
+      "BTS Saphan Khwai",
+      "Saphan Khwai BTS",
+      "N7"
+    ]
+  },
+  {
+    "id": "bts_mo_chit",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N8",
+    "canonicalName": "Mo Chit",
+    "thaiName": "หมอชิต",
+    "aliases": [
+      "Mo Chit",
+      "หมอชิต",
+      "BTS Mo Chit",
+      "Mo Chit BTS",
+      "N8",
+      "Morchit"
+    ]
+  },
+  {
+    "id": "bts_ha_yaek_lat_phrao",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N9",
+    "canonicalName": "Ha Yaek Lat Phrao",
+    "thaiName": "ห้าแยกลาดพร้าว",
+    "aliases": [
+      "Ha Yaek Lat Phrao",
+      "ห้าแยกลาดพร้าว",
+      "BTS Ha Yaek Lat Phrao",
+      "Ha Yaek Lat Phrao BTS",
+      "N9",
+      "Lat Phrao Intersection",
+      "Ladphrao Intersection"
+    ]
+  },
+  {
+    "id": "bts_phahon_yothin_24",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N10",
+    "canonicalName": "Phahon Yothin 24",
+    "thaiName": "พหลโยธิน 24",
+    "aliases": [
+      "Phahon Yothin 24",
+      "พหลโยธิน 24",
+      "BTS Phahon Yothin 24",
+      "Phahon Yothin 24 BTS",
+      "N10"
+    ]
+  },
+  {
+    "id": "bts_ratchayothin",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N11",
+    "canonicalName": "Ratchayothin",
+    "thaiName": "รัชโยธิน",
+    "aliases": [
+      "Ratchayothin",
+      "รัชโยธิน",
+      "BTS Ratchayothin",
+      "Ratchayothin BTS",
+      "N11"
+    ]
+  },
+  {
+    "id": "bts_sena_nikhom",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N12",
+    "canonicalName": "Sena Nikhom",
+    "thaiName": "เสนานิคม",
+    "aliases": [
+      "Sena Nikhom",
+      "เสนานิคม",
+      "BTS Sena Nikhom",
+      "Sena Nikhom BTS",
+      "N12"
+    ]
+  },
+  {
+    "id": "bts_kasetsart_university",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N13",
+    "canonicalName": "Kasetsart University",
+    "thaiName": "มหาวิทยาลัยเกษตรศาสตร์",
+    "aliases": [
+      "Kasetsart University",
+      "มหาวิทยาลัยเกษตรศาสตร์",
+      "BTS Kasetsart University",
+      "Kasetsart University BTS",
+      "N13"
+    ]
+  },
+  {
+    "id": "bts_royal_forest_department",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N14",
+    "canonicalName": "Royal Forest Department",
+    "thaiName": "กรมป่าไม้",
+    "aliases": [
+      "Royal Forest Department",
+      "กรมป่าไม้",
+      "BTS Royal Forest Department",
+      "Royal Forest Department BTS",
+      "N14"
+    ]
+  },
+  {
+    "id": "bts_bang_bua",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N15",
+    "canonicalName": "Bang Bua",
+    "thaiName": "บางบัว",
+    "aliases": [
+      "Bang Bua",
+      "บางบัว",
+      "BTS Bang Bua",
+      "Bang Bua BTS",
+      "N15"
+    ]
+  },
+  {
+    "id": "bts_11th_infantry_regiment",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N16",
+    "canonicalName": "11th Infantry Regiment",
+    "thaiName": "กรมทหารราบที่ 11",
+    "aliases": [
+      "11th Infantry Regiment",
+      "กรมทหารราบที่ 11",
+      "BTS 11th Infantry Regiment",
+      "11th Infantry Regiment BTS",
+      "N16"
+    ]
+  },
+  {
+    "id": "bts_wat_phra_sri_mahathat",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N17",
+    "canonicalName": "Wat Phra Sri Mahathat",
+    "thaiName": "วัดพระศรีมหาธาตุ",
+    "aliases": [
+      "Wat Phra Sri Mahathat",
+      "วัดพระศรีมหาธาตุ",
+      "BTS Wat Phra Sri Mahathat",
+      "Wat Phra Sri Mahathat BTS",
+      "N17"
+    ]
+  },
+  {
+    "id": "bts_phahon_yothin_59",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N18",
+    "canonicalName": "Phahon Yothin 59",
+    "thaiName": "พหลโยธิน 59",
+    "aliases": [
+      "Phahon Yothin 59",
+      "พหลโยธิน 59",
+      "BTS Phahon Yothin 59",
+      "Phahon Yothin 59 BTS",
+      "N18"
+    ]
+  },
+  {
+    "id": "bts_sai_yud",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N19",
+    "canonicalName": "Sai Yud",
+    "thaiName": "สายหยุด",
+    "aliases": [
+      "Sai Yud",
+      "สายหยุด",
+      "BTS Sai Yud",
+      "Sai Yud BTS",
+      "N19"
+    ]
+  },
+  {
+    "id": "bts_saphan_mai",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N20",
+    "canonicalName": "Saphan Mai",
+    "thaiName": "สะพานใหม่",
+    "aliases": [
+      "Saphan Mai",
+      "สะพานใหม่",
+      "BTS Saphan Mai",
+      "Saphan Mai BTS",
+      "N20"
+    ]
+  },
+  {
+    "id": "bts_bhumibol_adulyadej_hospital",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N21",
+    "canonicalName": "Bhumibol Adulyadej Hospital",
+    "thaiName": "โรงพยาบาลภูมิพลอดุลยเดช",
+    "aliases": [
+      "Bhumibol Adulyadej Hospital",
+      "โรงพยาบาลภูมิพลอดุลยเดช",
+      "BTS Bhumibol Adulyadej Hospital",
+      "Bhumibol Adulyadej Hospital BTS",
+      "N21"
+    ]
+  },
+  {
+    "id": "bts_royal_thai_air_force_museum",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N22",
+    "canonicalName": "Royal Thai Air Force Museum",
+    "thaiName": "พิพิธภัณฑ์กองทัพอากาศ",
+    "aliases": [
+      "Royal Thai Air Force Museum",
+      "พิพิธภัณฑ์กองทัพอากาศ",
+      "BTS Royal Thai Air Force Museum",
+      "Royal Thai Air Force Museum BTS",
+      "N22"
+    ]
+  },
+  {
+    "id": "bts_yaek_kor_por_aor",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N23",
+    "canonicalName": "Yaek Kor Por Aor",
+    "thaiName": "แยก คปอ.",
+    "aliases": [
+      "Yaek Kor Por Aor",
+      "แยก คปอ.",
+      "BTS Yaek Kor Por Aor",
+      "Yaek Kor Por Aor BTS",
+      "N23"
+    ]
+  },
+  {
+    "id": "bts_khu_khot",
+    "system": "BTS",
+    "line": "Sukhumvit",
+    "code": "N24",
+    "canonicalName": "Khu Khot",
+    "thaiName": "คูคต",
+    "aliases": [
+      "Khu Khot",
+      "คูคต",
+      "BTS Khu Khot",
+      "Khu Khot BTS",
+      "N24"
+    ]
+  },
+  {
+    "id": "bts_ratchadamri",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S1",
+    "canonicalName": "Ratchadamri",
+    "thaiName": "ราชดำริ",
+    "aliases": [
+      "Ratchadamri",
+      "ราชดำริ",
+      "BTS Ratchadamri",
+      "Ratchadamri BTS",
+      "S1"
+    ]
+  },
+  {
+    "id": "bts_sala_daeng",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S2",
+    "canonicalName": "Sala Daeng",
+    "thaiName": "ศาลาแดง",
+    "aliases": [
+      "Sala Daeng",
+      "ศาลาแดง",
+      "BTS Sala Daeng",
+      "Sala Daeng BTS",
+      "S2"
+    ]
+  },
+  {
+    "id": "bts_chong_nonsi",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S3",
+    "canonicalName": "Chong Nonsi",
+    "thaiName": "ช่องนนทรี",
+    "aliases": [
+      "Chong Nonsi",
+      "ช่องนนทรี",
+      "BTS Chong Nonsi",
+      "Chong Nonsi BTS",
+      "S3"
+    ]
+  },
+  {
+    "id": "bts_saint_louis",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S4",
+    "canonicalName": "Saint Louis",
+    "thaiName": "เซนต์หลุยส์",
+    "aliases": [
+      "Saint Louis",
+      "เซนต์หลุยส์",
+      "BTS Saint Louis",
+      "Saint Louis BTS",
+      "S4"
+    ]
+  },
+  {
+    "id": "bts_surasak",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S5",
+    "canonicalName": "Surasak",
+    "thaiName": "สุรศักดิ์",
+    "aliases": [
+      "Surasak",
+      "สุรศักดิ์",
+      "BTS Surasak",
+      "Surasak BTS",
+      "S5"
+    ]
+  },
+  {
+    "id": "bts_saphan_taksin",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S6",
+    "canonicalName": "Saphan Taksin",
+    "thaiName": "สะพานตากสิน",
+    "aliases": [
+      "Saphan Taksin",
+      "สะพานตากสิน",
+      "BTS Saphan Taksin",
+      "Saphan Taksin BTS",
+      "S6"
+    ]
+  },
+  {
+    "id": "bts_krung_thon_buri_silom",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S7",
+    "canonicalName": "Krung Thon Buri",
+    "thaiName": "กรุงธนบุรี",
+    "aliases": [
+      "Krung Thon Buri",
+      "กรุงธนบุรี",
+      "BTS Krung Thon Buri",
+      "Krung Thon Buri BTS",
+      "S7"
+    ]
+  },
+  {
+    "id": "bts_wongwian_yai",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S8",
+    "canonicalName": "Wongwian Yai",
+    "thaiName": "วงเวียนใหญ่",
+    "aliases": [
+      "Wongwian Yai",
+      "วงเวียนใหญ่",
+      "BTS Wongwian Yai",
+      "Wongwian Yai BTS",
+      "S8"
+    ]
+  },
+  {
+    "id": "bts_pho_nimit",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S9",
+    "canonicalName": "Pho Nimit",
+    "thaiName": "โพธิ์นิมิตร",
+    "aliases": [
+      "Pho Nimit",
+      "โพธิ์นิมิตร",
+      "BTS Pho Nimit",
+      "Pho Nimit BTS",
+      "S9"
+    ]
+  },
+  {
+    "id": "bts_talat_phlu",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S10",
+    "canonicalName": "Talat Phlu",
+    "thaiName": "ตลาดพลู",
+    "aliases": [
+      "Talat Phlu",
+      "ตลาดพลู",
+      "BTS Talat Phlu",
+      "Talat Phlu BTS",
+      "S10"
+    ]
+  },
+  {
+    "id": "bts_wutthakat",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S11",
+    "canonicalName": "Wutthakat",
+    "thaiName": "วุฒากาศ",
+    "aliases": [
+      "Wutthakat",
+      "วุฒากาศ",
+      "BTS Wutthakat",
+      "Wutthakat BTS",
+      "S11"
+    ]
+  },
+  {
+    "id": "bts_bang_wa",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "S12",
+    "canonicalName": "Bang Wa",
+    "thaiName": "บางหว้า",
+    "aliases": [
+      "Bang Wa",
+      "บางหว้า",
+      "BTS Bang Wa",
+      "Bang Wa BTS",
+      "S12"
+    ]
+  },
+  {
+    "id": "bts_national_stadium",
+    "system": "BTS",
+    "line": "Silom",
+    "code": "W1",
+    "canonicalName": "National Stadium",
+    "thaiName": "สนามกีฬาแห่งชาติ",
+    "aliases": [
+      "National Stadium",
+      "สนามกีฬาแห่งชาติ",
+      "BTS National Stadium",
+      "National Stadium BTS",
+      "W1"
+    ]
+  },
+  {
+    "id": "bts_krung_thon_buri_gold",
+    "system": "BTS",
+    "line": "Gold",
+    "code": "G1",
+    "canonicalName": "Krung Thon Buri",
+    "thaiName": "กรุงธนบุรี",
+    "aliases": [
+      "Krung Thon Buri",
+      "กรุงธนบุรี",
+      "BTS Krung Thon Buri",
+      "Krung Thon Buri BTS",
+      "G1"
+    ]
+  },
+  {
+    "id": "bts_charoen_nakhon",
+    "system": "BTS",
+    "line": "Gold",
+    "code": "G2",
+    "canonicalName": "Charoen Nakhon (ICONSIAM)",
+    "thaiName": "เจริญนคร (ไอคอนสยาม)",
+    "aliases": [
+      "Charoen Nakhon (ICONSIAM)",
+      "เจริญนคร (ไอคอนสยาม)",
+      "BTS Charoen Nakhon (ICONSIAM)",
+      "Charoen Nakhon (ICONSIAM) BTS",
+      "G2",
+      "Charoen Nakhon",
+      "ICONSIAM"
+    ]
+  },
+  {
+    "id": "bts_khlong_san",
+    "system": "BTS",
+    "line": "Gold",
+    "code": "G3",
+    "canonicalName": "Khlong San",
+    "thaiName": "คลองสาน",
+    "aliases": [
+      "Khlong San",
+      "คลองสาน",
+      "BTS Khlong San",
+      "Khlong San BTS",
+      "G3"
+    ]
+  },
+  {
+    "id": "mrt_tha_phra",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL01",
+    "canonicalName": "Tha Phra",
+    "thaiName": "ท่าพระ",
+    "aliases": [
+      "Tha Phra",
+      "ท่าพระ",
+      "MRT Tha Phra",
+      "Tha Phra MRT",
+      "BL01"
+    ]
+  },
+  {
+    "id": "mrt_charan_13",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL02",
+    "canonicalName": "Charan 13",
+    "thaiName": "จรัญฯ 13",
+    "aliases": [
+      "Charan 13",
+      "จรัญฯ 13",
+      "MRT Charan 13",
+      "Charan 13 MRT",
+      "BL02"
+    ]
+  },
+  {
+    "id": "mrt_fai_chai",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL03",
+    "canonicalName": "Fai Chai",
+    "thaiName": "ไฟฉาย",
+    "aliases": [
+      "Fai Chai",
+      "ไฟฉาย",
+      "MRT Fai Chai",
+      "Fai Chai MRT",
+      "BL03"
+    ]
+  },
+  {
+    "id": "mrt_bang_khun_non",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL04",
+    "canonicalName": "Bang Khun Non",
+    "thaiName": "บางขุนนนท์",
+    "aliases": [
+      "Bang Khun Non",
+      "บางขุนนนท์",
+      "MRT Bang Khun Non",
+      "Bang Khun Non MRT",
+      "BL04"
+    ]
+  },
+  {
+    "id": "mrt_bang_yi_khan",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL05",
+    "canonicalName": "Bang Yi Khan",
+    "thaiName": "บางยี่ขัน",
+    "aliases": [
+      "Bang Yi Khan",
+      "บางยี่ขัน",
+      "MRT Bang Yi Khan",
+      "Bang Yi Khan MRT",
+      "BL05"
+    ]
+  },
+  {
+    "id": "mrt_sirindhorn",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL06",
+    "canonicalName": "Sirindhorn",
+    "thaiName": "สิรินธร",
+    "aliases": [
+      "Sirindhorn",
+      "สิรินธร",
+      "MRT Sirindhorn",
+      "Sirindhorn MRT",
+      "BL06"
+    ]
+  },
+  {
+    "id": "mrt_bang_phlat",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL07",
+    "canonicalName": "Bang Phlat",
+    "thaiName": "บางพลัด",
+    "aliases": [
+      "Bang Phlat",
+      "บางพลัด",
+      "MRT Bang Phlat",
+      "Bang Phlat MRT",
+      "BL07"
+    ]
+  },
+  {
+    "id": "mrt_bang_o",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL08",
+    "canonicalName": "Bang O",
+    "thaiName": "บางอ้อ",
+    "aliases": [
+      "Bang O",
+      "บางอ้อ",
+      "MRT Bang O",
+      "Bang O MRT",
+      "BL08"
+    ]
+  },
+  {
+    "id": "mrt_bang_pho",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL09",
+    "canonicalName": "Bang Pho",
+    "thaiName": "บางโพ",
+    "aliases": [
+      "Bang Pho",
+      "บางโพ",
+      "MRT Bang Pho",
+      "Bang Pho MRT",
+      "BL09"
+    ]
+  },
+  {
+    "id": "mrt_tao_poon_blue",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL10",
+    "canonicalName": "Tao Poon",
+    "thaiName": "เตาปูน",
+    "aliases": [
+      "Tao Poon",
+      "เตาปูน",
+      "MRT Tao Poon",
+      "Tao Poon MRT",
+      "BL10"
+    ]
+  },
+  {
+    "id": "mrt_bang_sue",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL11",
+    "canonicalName": "Bang Sue",
+    "thaiName": "บางซื่อ",
+    "aliases": [
+      "Bang Sue",
+      "บางซื่อ",
+      "MRT Bang Sue",
+      "Bang Sue MRT",
+      "BL11"
+    ]
+  },
+  {
+    "id": "mrt_kamphaeng_phet",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL12",
+    "canonicalName": "Kamphaeng Phet",
+    "thaiName": "กำแพงเพชร",
+    "aliases": [
+      "Kamphaeng Phet",
+      "กำแพงเพชร",
+      "MRT Kamphaeng Phet",
+      "Kamphaeng Phet MRT",
+      "BL12"
+    ]
+  },
+  {
+    "id": "mrt_chatuchak_park",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL13",
+    "canonicalName": "Chatuchak Park",
+    "thaiName": "สวนจตุจักร",
+    "aliases": [
+      "Chatuchak Park",
+      "สวนจตุจักร",
+      "MRT Chatuchak Park",
+      "Chatuchak Park MRT",
+      "BL13",
+      "BTS : Mo Chit"
+    ]
+  },
+  {
+    "id": "mrt_phahon_yothin",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL14",
+    "canonicalName": "Phahon Yothin",
+    "thaiName": "พหลโยธิน",
+    "aliases": [
+      "Phahon Yothin",
+      "พหลโยธิน",
+      "MRT Phahon Yothin",
+      "Phahon Yothin MRT",
+      "BL14",
+      "BTS : Ha Yaek Lat Phrao"
+    ]
+  },
+  {
+    "id": "mrt_lat_phrao_blue",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL15",
+    "canonicalName": "Lat Phrao",
+    "thaiName": "ลาดพร้าว",
+    "aliases": [
+      "Lat Phrao",
+      "ลาดพร้าว",
+      "MRT Lat Phrao",
+      "Lat Phrao MRT",
+      "BL15"
+    ]
+  },
+  {
+    "id": "mrt_ratchadaphisek",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL16",
+    "canonicalName": "Ratchadaphisek",
+    "thaiName": "รัชดาภิเษก",
+    "aliases": [
+      "Ratchadaphisek",
+      "รัชดาภิเษก",
+      "MRT Ratchadaphisek",
+      "Ratchadaphisek MRT",
+      "BL16"
+    ]
+  },
+  {
+    "id": "mrt_sutthisan",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL17",
+    "canonicalName": "Sutthisan",
+    "thaiName": "สุทธิสาร",
+    "aliases": [
+      "Sutthisan",
+      "สุทธิสาร",
+      "MRT Sutthisan",
+      "Sutthisan MRT",
+      "BL17"
+    ]
+  },
+  {
+    "id": "mrt_huai_khwang",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL18",
+    "canonicalName": "Huai Khwang",
+    "thaiName": "ห้วยขวาง",
+    "aliases": [
+      "Huai Khwang",
+      "ห้วยขวาง",
+      "MRT Huai Khwang",
+      "Huai Khwang MRT",
+      "BL18"
+    ]
+  },
+  {
+    "id": "mrt_thailand_cultural_centre",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL19",
+    "canonicalName": "Thailand Cultural Centre",
+    "thaiName": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+    "aliases": [
+      "Thailand Cultural Centre",
+      "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+      "MRT Thailand Cultural Centre",
+      "Thailand Cultural Centre MRT",
+      "BL19"
+    ]
+  },
+  {
+    "id": "mrt_phra_ram_9",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL20",
+    "canonicalName": "Phra Ram 9",
+    "thaiName": "พระราม 9",
+    "aliases": [
+      "Phra Ram 9",
+      "พระราม 9",
+      "MRT Phra Ram 9",
+      "Phra Ram 9 MRT",
+      "BL20",
+      "Rama IX"
+    ]
+  },
+  {
+    "id": "mrt_phetchaburi",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL21",
+    "canonicalName": "Phetchaburi",
+    "thaiName": "เพชรบุรี",
+    "aliases": [
+      "Phetchaburi",
+      "เพชรบุรี",
+      "MRT Phetchaburi",
+      "Phetchaburi MRT",
+      "BL21"
+    ]
+  },
+  {
+    "id": "mrt_sukhumvit",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL22",
+    "canonicalName": "Sukhumvit",
+    "thaiName": "สุขุมวิท",
+    "aliases": [
+      "Sukhumvit",
+      "สุขุมวิท",
+      "MRT Sukhumvit",
+      "Sukhumvit MRT",
+      "BL22",
+      "BTS : Asok"
+    ]
+  },
+  {
+    "id": "mrt_queen_sirikit_national_convention_centre",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL23",
+    "canonicalName": "Queen Sirikit National Convention Centre",
+    "thaiName": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "aliases": [
+      "Queen Sirikit National Convention Centre",
+      "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "MRT Queen Sirikit National Convention Centre",
+      "Queen Sirikit National Convention Centre MRT",
+      "BL23",
+      "QSNCC"
+    ]
+  },
+  {
+    "id": "mrt_khlong_toei",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL24",
+    "canonicalName": "Khlong Toei",
+    "thaiName": "คลองเตย",
+    "aliases": [
+      "Khlong Toei",
+      "คลองเตย",
+      "MRT Khlong Toei",
+      "Khlong Toei MRT",
+      "BL24"
+    ]
+  },
+  {
+    "id": "mrt_lumphini",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL25",
+    "canonicalName": "Lumphini",
+    "thaiName": "ลุมพินี",
+    "aliases": [
+      "Lumphini",
+      "ลุมพินี",
+      "MRT Lumphini",
+      "Lumphini MRT",
+      "BL25",
+      "Lumpini"
+    ]
+  },
+  {
+    "id": "mrt_si_lom",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL26",
+    "canonicalName": "Si Lom",
+    "thaiName": "สีลม",
+    "aliases": [
+      "Si Lom",
+      "สีลม",
+      "MRT Si Lom",
+      "Si Lom MRT",
+      "BL26",
+      "Silom",
+      "BTS : Sala Daeng"
+    ]
+  },
+  {
+    "id": "mrt_sam_yan",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL27",
+    "canonicalName": "Sam Yan",
+    "thaiName": "สามย่าน",
+    "aliases": [
+      "Sam Yan",
+      "สามย่าน",
+      "MRT Sam Yan",
+      "Sam Yan MRT",
+      "BL27"
+    ]
+  },
+  {
+    "id": "mrt_hua_lamphong",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL28",
+    "canonicalName": "Hua Lamphong",
+    "thaiName": "หัวลำโพง",
+    "aliases": [
+      "Hua Lamphong",
+      "หัวลำโพง",
+      "MRT Hua Lamphong",
+      "Hua Lamphong MRT",
+      "BL28",
+      "Hua Lampong"
+    ]
+  },
+  {
+    "id": "mrt_wat_mangkon",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL29",
+    "canonicalName": "Wat Mangkon",
+    "thaiName": "วัดมังกร",
+    "aliases": [
+      "Wat Mangkon",
+      "วัดมังกร",
+      "MRT Wat Mangkon",
+      "Wat Mangkon MRT",
+      "BL29"
+    ]
+  },
+  {
+    "id": "mrt_sam_yot",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL30",
+    "canonicalName": "Sam Yot",
+    "thaiName": "สามยอด",
+    "aliases": [
+      "Sam Yot",
+      "สามยอด",
+      "MRT Sam Yot",
+      "Sam Yot MRT",
+      "BL30"
+    ]
+  },
+  {
+    "id": "mrt_sanam_chai",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL31",
+    "canonicalName": "Sanam Chai",
+    "thaiName": "สนามไชย",
+    "aliases": [
+      "Sanam Chai",
+      "สนามไชย",
+      "MRT Sanam Chai",
+      "Sanam Chai MRT",
+      "BL31"
+    ]
+  },
+  {
+    "id": "mrt_itsaraphap",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL32",
+    "canonicalName": "Itsaraphap",
+    "thaiName": "อิสรภาพ",
+    "aliases": [
+      "Itsaraphap",
+      "อิสรภาพ",
+      "MRT Itsaraphap",
+      "Itsaraphap MRT",
+      "BL32"
+    ]
+  },
+  {
+    "id": "mrt_bang_phai",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL33",
+    "canonicalName": "Bang Phai",
+    "thaiName": "บางไผ่",
+    "aliases": [
+      "Bang Phai",
+      "บางไผ่",
+      "MRT Bang Phai",
+      "Bang Phai MRT",
+      "BL33"
+    ]
+  },
+  {
+    "id": "mrt_bang_wa",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL34",
+    "canonicalName": "Bang Wa",
+    "thaiName": "บางหว้า",
+    "aliases": [
+      "Bang Wa",
+      "บางหว้า",
+      "MRT Bang Wa",
+      "Bang Wa MRT",
+      "BL34"
+    ]
+  },
+  {
+    "id": "mrt_phetkasem_48",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL35",
+    "canonicalName": "Phetkasem 48",
+    "thaiName": "เพชรเกษม 48",
+    "aliases": [
+      "Phetkasem 48",
+      "เพชรเกษม 48",
+      "MRT Phetkasem 48",
+      "Phetkasem 48 MRT",
+      "BL35"
+    ]
+  },
+  {
+    "id": "mrt_phasi_charoen",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL36",
+    "canonicalName": "Phasi Charoen",
+    "thaiName": "ภาษีเจริญ",
+    "aliases": [
+      "Phasi Charoen",
+      "ภาษีเจริญ",
+      "MRT Phasi Charoen",
+      "Phasi Charoen MRT",
+      "BL36"
+    ]
+  },
+  {
+    "id": "mrt_bang_khae",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL37",
+    "canonicalName": "Bang Khae",
+    "thaiName": "บางแค",
+    "aliases": [
+      "Bang Khae",
+      "บางแค",
+      "MRT Bang Khae",
+      "Bang Khae MRT",
+      "BL37"
+    ]
+  },
+  {
+    "id": "mrt_lak_song",
+    "system": "MRT",
+    "line": "Blue",
+    "code": "BL38",
+    "canonicalName": "Lak Song",
+    "thaiName": "หลักสอง",
+    "aliases": [
+      "Lak Song",
+      "หลักสอง",
+      "MRT Lak Song",
+      "Lak Song MRT",
+      "BL38"
+    ]
+  },
+  {
+    "id": "mrt_khlong_bang_phai",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP01",
+    "canonicalName": "Khlong Bang Phai",
+    "thaiName": "คลองบางไผ่",
+    "aliases": [
+      "Khlong Bang Phai",
+      "คลองบางไผ่",
+      "MRT Khlong Bang Phai",
+      "Khlong Bang Phai MRT",
+      "PP01"
+    ]
+  },
+  {
+    "id": "mrt_talad_bang_yai",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP02",
+    "canonicalName": "Talad Bang Yai",
+    "thaiName": "ตลาดบางใหญ่",
+    "aliases": [
+      "Talad Bang Yai",
+      "ตลาดบางใหญ่",
+      "MRT Talad Bang Yai",
+      "Talad Bang Yai MRT",
+      "PP02"
+    ]
+  },
+  {
+    "id": "mrt_sam_yaek_bang_yai",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP03",
+    "canonicalName": "Sam Yaek Bang Yai",
+    "thaiName": "สามแยกบางใหญ่",
+    "aliases": [
+      "Sam Yaek Bang Yai",
+      "สามแยกบางใหญ่",
+      "MRT Sam Yaek Bang Yai",
+      "Sam Yaek Bang Yai MRT",
+      "PP03"
+    ]
+  },
+  {
+    "id": "mrt_bang_phlu",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP04",
+    "canonicalName": "Bang Phlu",
+    "thaiName": "บางพลู",
+    "aliases": [
+      "Bang Phlu",
+      "บางพลู",
+      "MRT Bang Phlu",
+      "Bang Phlu MRT",
+      "PP04"
+    ]
+  },
+  {
+    "id": "mrt_bang_rak_yai",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP05",
+    "canonicalName": "Bang Rak Yai",
+    "thaiName": "บางรักใหญ่",
+    "aliases": [
+      "Bang Rak Yai",
+      "บางรักใหญ่",
+      "MRT Bang Rak Yai",
+      "Bang Rak Yai MRT",
+      "PP05"
+    ]
+  },
+  {
+    "id": "mrt_bang_rak_noi_tha_it",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP06",
+    "canonicalName": "Bang Rak Noi Tha It",
+    "thaiName": "บางรักน้อย-ท่าอิฐ",
+    "aliases": [
+      "Bang Rak Noi Tha It",
+      "บางรักน้อย-ท่าอิฐ",
+      "MRT Bang Rak Noi Tha It",
+      "Bang Rak Noi Tha It MRT",
+      "PP06"
+    ]
+  },
+  {
+    "id": "mrt_sai_ma",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP07",
+    "canonicalName": "Sai Ma",
+    "thaiName": "ไทรม้า",
+    "aliases": [
+      "Sai Ma",
+      "ไทรม้า",
+      "MRT Sai Ma",
+      "Sai Ma MRT",
+      "PP07"
+    ]
+  },
+  {
+    "id": "mrt_phra_nang_klao_bridge",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP08",
+    "canonicalName": "Phra Nang Klao Bridge",
+    "thaiName": "สะพานพระนั่งเกล้า",
+    "aliases": [
+      "Phra Nang Klao Bridge",
+      "สะพานพระนั่งเกล้า",
+      "MRT Phra Nang Klao Bridge",
+      "Phra Nang Klao Bridge MRT",
+      "PP08"
+    ]
+  },
+  {
+    "id": "mrt_yaek_nonthaburi_1",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP09",
+    "canonicalName": "Yaek Nonthaburi 1",
+    "thaiName": "แยกนนทบุรี 1",
+    "aliases": [
+      "Yaek Nonthaburi 1",
+      "แยกนนทบุรี 1",
+      "MRT Yaek Nonthaburi 1",
+      "Yaek Nonthaburi 1 MRT",
+      "PP09"
+    ]
+  },
+  {
+    "id": "mrt_bang_krasor",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP10",
+    "canonicalName": "Bang Krasor",
+    "thaiName": "บางกระสอ",
+    "aliases": [
+      "Bang Krasor",
+      "บางกระสอ",
+      "MRT Bang Krasor",
+      "Bang Krasor MRT",
+      "PP10"
+    ]
+  },
+  {
+    "id": "mrt_nonthaburi_civic_center_purple",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP11",
+    "canonicalName": "Nonthaburi Civic Center",
+    "thaiName": "ศูนย์ราชการนนทบุรี",
+    "aliases": [
+      "Nonthaburi Civic Center",
+      "ศูนย์ราชการนนทบุรี",
+      "MRT Nonthaburi Civic Center",
+      "Nonthaburi Civic Center MRT",
+      "PP11"
+    ]
+  },
+  {
+    "id": "mrt_ministry_of_public_health",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP12",
+    "canonicalName": "Ministry of Public Health",
+    "thaiName": "กระทรวงสาธารณสุข",
+    "aliases": [
+      "Ministry of Public Health",
+      "กระทรวงสาธารณสุข",
+      "MRT Ministry of Public Health",
+      "Ministry of Public Health MRT",
+      "PP12"
+    ]
+  },
+  {
+    "id": "mrt_yaek_tiwanon",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP13",
+    "canonicalName": "Yaek Tiwanon",
+    "thaiName": "แยกติวานนท์",
+    "aliases": [
+      "Yaek Tiwanon",
+      "แยกติวานนท์",
+      "MRT Yaek Tiwanon",
+      "Yaek Tiwanon MRT",
+      "PP13"
+    ]
+  },
+  {
+    "id": "mrt_wong_sawang",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP14",
+    "canonicalName": "Wong Sawang",
+    "thaiName": "วงศ์สว่าง",
+    "aliases": [
+      "Wong Sawang",
+      "วงศ์สว่าง",
+      "MRT Wong Sawang",
+      "Wong Sawang MRT",
+      "PP14"
+    ]
+  },
+  {
+    "id": "mrt_bang_son",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP15",
+    "canonicalName": "Bang Son",
+    "thaiName": "บางซ่อน",
+    "aliases": [
+      "Bang Son",
+      "บางซ่อน",
+      "MRT Bang Son",
+      "Bang Son MRT",
+      "PP15"
+    ]
+  },
+  {
+    "id": "mrt_tao_poon_purple",
+    "system": "MRT",
+    "line": "Purple",
+    "code": "PP16",
+    "canonicalName": "Tao Poon",
+    "thaiName": "เตาปูน",
+    "aliases": [
+      "Tao Poon",
+      "เตาปูน",
+      "MRT Tao Poon",
+      "Tao Poon MRT",
+      "PP16"
+    ]
+  },
+  {
+    "id": "mrt_lat_phrao_yellow",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL1",
+    "canonicalName": "Lat Phrao",
+    "thaiName": "ลาดพร้าว",
+    "aliases": [
+      "Lat Phrao",
+      "ลาดพร้าว",
+      "MRT Lat Phrao",
+      "Lat Phrao MRT",
+      "YL1"
+    ]
+  },
+  {
+    "id": "mrt_phawana",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL2",
+    "canonicalName": "Phawana",
+    "thaiName": "ภาวนา",
+    "aliases": [
+      "Phawana",
+      "ภาวนา",
+      "MRT Phawana",
+      "Phawana MRT",
+      "YL2"
+    ]
+  },
+  {
+    "id": "mrt_chok_chai_4",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL3",
+    "canonicalName": "Chok Chai 4",
+    "thaiName": "โชคชัย 4",
+    "aliases": [
+      "Chok Chai 4",
+      "โชคชัย 4",
+      "MRT Chok Chai 4",
+      "Chok Chai 4 MRT",
+      "YL3"
+    ]
+  },
+  {
+    "id": "mrt_lat_phrao_71",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL4",
+    "canonicalName": "Lat Phrao 71",
+    "thaiName": "ลาดพร้าว 71",
+    "aliases": [
+      "Lat Phrao 71",
+      "ลาดพร้าว 71",
+      "MRT Lat Phrao 71",
+      "Lat Phrao 71 MRT",
+      "YL4"
+    ]
+  },
+  {
+    "id": "mrt_lat_phrao_83",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL5",
+    "canonicalName": "Lat Phrao 83",
+    "thaiName": "ลาดพร้าว 83",
+    "aliases": [
+      "Lat Phrao 83",
+      "ลาดพร้าว 83",
+      "MRT Lat Phrao 83",
+      "Lat Phrao 83 MRT",
+      "YL5"
+    ]
+  },
+  {
+    "id": "mrt_mahat_thai",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL6",
+    "canonicalName": "Mahat Thai",
+    "thaiName": "มหาดไทย",
+    "aliases": [
+      "Mahat Thai",
+      "มหาดไทย",
+      "MRT Mahat Thai",
+      "Mahat Thai MRT",
+      "YL6"
+    ]
+  },
+  {
+    "id": "mrt_lat_phrao_101",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL7",
+    "canonicalName": "Lat Phrao 101",
+    "thaiName": "ลาดพร้าว 101",
+    "aliases": [
+      "Lat Phrao 101",
+      "ลาดพร้าว 101",
+      "MRT Lat Phrao 101",
+      "Lat Phrao 101 MRT",
+      "YL7"
+    ]
+  },
+  {
+    "id": "mrt_bang_kapi",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL8",
+    "canonicalName": "Bang Kapi",
+    "thaiName": "บางกะปิ",
+    "aliases": [
+      "Bang Kapi",
+      "บางกะปิ",
+      "MRT Bang Kapi",
+      "Bang Kapi MRT",
+      "YL8"
+    ]
+  },
+  {
+    "id": "mrt_yaek_lam_sali",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL9",
+    "canonicalName": "Yaek Lam Sali",
+    "thaiName": "แยกลำสาลี",
+    "aliases": [
+      "Yaek Lam Sali",
+      "แยกลำสาลี",
+      "MRT Yaek Lam Sali",
+      "Yaek Lam Sali MRT",
+      "YL9"
+    ]
+  },
+  {
+    "id": "mrt_si_kritha",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL10",
+    "canonicalName": "Si Kritha",
+    "thaiName": "ศรีกรีฑา",
+    "aliases": [
+      "Si Kritha",
+      "ศรีกรีฑา",
+      "MRT Si Kritha",
+      "Si Kritha MRT",
+      "YL10"
+    ]
+  },
+  {
+    "id": "mrt_hua_mak",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL11",
+    "canonicalName": "Hua Mak",
+    "thaiName": "หัวหมาก",
+    "aliases": [
+      "Hua Mak",
+      "หัวหมาก",
+      "MRT Hua Mak",
+      "Hua Mak MRT",
+      "YL11"
+    ]
+  },
+  {
+    "id": "mrt_kalantan",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL12",
+    "canonicalName": "Kalantan",
+    "thaiName": "กลันตัน",
+    "aliases": [
+      "Kalantan",
+      "กลันตัน",
+      "MRT Kalantan",
+      "Kalantan MRT",
+      "YL12"
+    ]
+  },
+  {
+    "id": "mrt_si_nut",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL13",
+    "canonicalName": "Si Nut",
+    "thaiName": "ศรีนุช",
+    "aliases": [
+      "Si Nut",
+      "ศรีนุช",
+      "MRT Si Nut",
+      "Si Nut MRT",
+      "YL13"
+    ]
+  },
+  {
+    "id": "mrt_srinagarindra_38",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL14",
+    "canonicalName": "Srinagarindra 38",
+    "thaiName": "ศรีนครินทร์ 38",
+    "aliases": [
+      "Srinagarindra 38",
+      "ศรีนครินทร์ 38",
+      "MRT Srinagarindra 38",
+      "Srinagarindra 38 MRT",
+      "YL14"
+    ]
+  },
+  {
+    "id": "mrt_suan_luang_rama_ix",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL15",
+    "canonicalName": "Suan Luang Rama IX",
+    "thaiName": "สวนหลวง ร.9",
+    "aliases": [
+      "Suan Luang Rama IX",
+      "สวนหลวง ร.9",
+      "MRT Suan Luang Rama IX",
+      "Suan Luang Rama IX MRT",
+      "YL15"
+    ]
+  },
+  {
+    "id": "mrt_si_udom",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL16",
+    "canonicalName": "Si Udom",
+    "thaiName": "ศรีอุดม",
+    "aliases": [
+      "Si Udom",
+      "ศรีอุดม",
+      "MRT Si Udom",
+      "Si Udom MRT",
+      "YL16"
+    ]
+  },
+  {
+    "id": "mrt_si_iam",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL17",
+    "canonicalName": "Si Iam",
+    "thaiName": "ศรีเอี่ยม",
+    "aliases": [
+      "Si Iam",
+      "ศรีเอี่ยม",
+      "MRT Si Iam",
+      "Si Iam MRT",
+      "YL17"
+    ]
+  },
+  {
+    "id": "mrt_si_la_salle",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL18",
+    "canonicalName": "Si La Salle",
+    "thaiName": "ศรีลาซาล",
+    "aliases": [
+      "Si La Salle",
+      "ศรีลาซาล",
+      "MRT Si La Salle",
+      "Si La Salle MRT",
+      "YL18"
+    ]
+  },
+  {
+    "id": "mrt_si_bearing",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL19",
+    "canonicalName": "Si Bearing",
+    "thaiName": "ศรีแบริ่ง",
+    "aliases": [
+      "Si Bearing",
+      "ศรีแบริ่ง",
+      "MRT Si Bearing",
+      "Si Bearing MRT",
+      "YL19"
+    ]
+  },
+  {
+    "id": "mrt_si_dan",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL20",
+    "canonicalName": "Si Dan",
+    "thaiName": "ศรีด่าน",
+    "aliases": [
+      "Si Dan",
+      "ศรีด่าน",
+      "MRT Si Dan",
+      "Si Dan MRT",
+      "YL20"
+    ]
+  },
+  {
+    "id": "mrt_si_thepha",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL21",
+    "canonicalName": "Si Thepha",
+    "thaiName": "ศรีเทพา",
+    "aliases": [
+      "Si Thepha",
+      "ศรีเทพา",
+      "MRT Si Thepha",
+      "Si Thepha MRT",
+      "YL21"
+    ]
+  },
+  {
+    "id": "mrt_thipphawan",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL22",
+    "canonicalName": "Thipphawan",
+    "thaiName": "ทิพวัล",
+    "aliases": [
+      "Thipphawan",
+      "ทิพวัล",
+      "MRT Thipphawan",
+      "Thipphawan MRT",
+      "YL22"
+    ]
+  },
+  {
+    "id": "mrt_samrong",
+    "system": "MRT",
+    "line": "Yellow",
+    "code": "YL23",
+    "canonicalName": "Samrong",
+    "thaiName": "สำโรง",
+    "aliases": [
+      "Samrong",
+      "สำโรง",
+      "MRT Samrong",
+      "Samrong MRT",
+      "YL23"
+    ]
+  },
+  {
+    "id": "mrt_impact_muang_thong_thani",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "MT01",
+    "canonicalName": "Impact Muang Thong Thani",
+    "thaiName": "อิมแพ็ค เมืองทองธานี",
+    "aliases": [
+      "Impact Muang Thong Thani",
+      "อิมแพ็ค เมืองทองธานี",
+      "MRT Impact Muang Thong Thani",
+      "Impact Muang Thong Thani MRT",
+      "MT01"
+    ]
+  },
+  {
+    "id": "mrt_lake_muang_thong_thani",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "MT02",
+    "canonicalName": "Lake Muang Thong Thani",
+    "thaiName": "ทะเลสาบเมืองทองธานี",
+    "aliases": [
+      "Lake Muang Thong Thani",
+      "ทะเลสาบเมืองทองธานี",
+      "MRT Lake Muang Thong Thani",
+      "Lake Muang Thong Thani MRT",
+      "MT02"
+    ]
+  },
+  {
+    "id": "mrt_nonthaburi_civic_center_pink",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK01",
+    "canonicalName": "Nonthaburi Civic Center",
+    "thaiName": "ศูนย์ราชการนนทบุรี",
+    "aliases": [
+      "Nonthaburi Civic Center",
+      "ศูนย์ราชการนนทบุรี",
+      "MRT Nonthaburi Civic Center",
+      "Nonthaburi Civic Center MRT",
+      "PK01"
+    ]
+  },
+  {
+    "id": "mrt_khae_rai",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK02",
+    "canonicalName": "Khae Rai",
+    "thaiName": "แคราย",
+    "aliases": [
+      "Khae Rai",
+      "แคราย",
+      "MRT Khae Rai",
+      "Khae Rai MRT",
+      "PK02"
+    ]
+  },
+  {
+    "id": "mrt_sanambin_nam",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK03",
+    "canonicalName": "Sanambin Nam",
+    "thaiName": "สนามบินน้ำ",
+    "aliases": [
+      "Sanambin Nam",
+      "สนามบินน้ำ",
+      "MRT Sanambin Nam",
+      "Sanambin Nam MRT",
+      "PK03"
+    ]
+  },
+  {
+    "id": "mrt_samakkhi",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK04",
+    "canonicalName": "Samakkhi",
+    "thaiName": "สามัคคี",
+    "aliases": [
+      "Samakkhi",
+      "สามัคคี",
+      "MRT Samakkhi",
+      "Samakkhi MRT",
+      "PK04"
+    ]
+  },
+  {
+    "id": "mrt_royal_irrigation_department",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK05",
+    "canonicalName": "Royal Irrigation Department",
+    "thaiName": "กรมชลประทาน",
+    "aliases": [
+      "Royal Irrigation Department",
+      "กรมชลประทาน",
+      "MRT Royal Irrigation Department",
+      "Royal Irrigation Department MRT",
+      "PK05"
+    ]
+  },
+  {
+    "id": "mrt_yaek_pak_kret",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK06",
+    "canonicalName": "Yaek Pak Kret",
+    "thaiName": "แยกปากเกร็ด",
+    "aliases": [
+      "Yaek Pak Kret",
+      "แยกปากเกร็ด",
+      "MRT Yaek Pak Kret",
+      "Yaek Pak Kret MRT",
+      "PK06"
+    ]
+  },
+  {
+    "id": "mrt_pak_kret_bypass",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK07",
+    "canonicalName": "Pak Kret Bypass",
+    "thaiName": "เลี่ยงเมืองปากเกร็ด",
+    "aliases": [
+      "Pak Kret Bypass",
+      "เลี่ยงเมืองปากเกร็ด",
+      "MRT Pak Kret Bypass",
+      "Pak Kret Bypass MRT",
+      "PK07"
+    ]
+  },
+  {
+    "id": "mrt_chaeng_watthana_pak_kret_28",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK08",
+    "canonicalName": "Chaeng Watthana - Pak Kret 28",
+    "thaiName": "แจ้งวัฒนะ-ปากเกร็ด 28",
+    "aliases": [
+      "Chaeng Watthana - Pak Kret 28",
+      "แจ้งวัฒนะ-ปากเกร็ด 28",
+      "MRT Chaeng Watthana - Pak Kret 28",
+      "Chaeng Watthana - Pak Kret 28 MRT",
+      "PK08"
+    ]
+  },
+  {
+    "id": "mrt_si_rat",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK09",
+    "canonicalName": "Si Rat",
+    "thaiName": "ศรีรัช",
+    "aliases": [
+      "Si Rat",
+      "ศรีรัช",
+      "MRT Si Rat",
+      "Si Rat MRT",
+      "PK09"
+    ]
+  },
+  {
+    "id": "mrt_muang_thong_thani",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK10",
+    "canonicalName": "Muang Thong Thani",
+    "thaiName": "เมืองทองธานี",
+    "aliases": [
+      "Muang Thong Thani",
+      "เมืองทองธานี",
+      "MRT Muang Thong Thani",
+      "Muang Thong Thani MRT",
+      "PK10"
+    ]
+  },
+  {
+    "id": "mrt_chaeng_watthana_14",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK11",
+    "canonicalName": "Chaeng Watthana 14",
+    "thaiName": "แจ้งวัฒนะ 14",
+    "aliases": [
+      "Chaeng Watthana 14",
+      "แจ้งวัฒนะ 14",
+      "MRT Chaeng Watthana 14",
+      "Chaeng Watthana 14 MRT",
+      "PK11"
+    ]
+  },
+  {
+    "id": "mrt_government_complex",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK12",
+    "canonicalName": "Government Complex",
+    "thaiName": "ศูนย์ราชการเฉลิมพระเกียรติ",
+    "aliases": [
+      "Government Complex",
+      "ศูนย์ราชการเฉลิมพระเกียรติ",
+      "MRT Government Complex",
+      "Government Complex MRT",
+      "PK12"
+    ]
+  },
+  {
+    "id": "mrt_national_telecom",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK13",
+    "canonicalName": "National Telecom",
+    "thaiName": "โทรคมนาคมแห่งชาติ",
+    "aliases": [
+      "National Telecom",
+      "โทรคมนาคมแห่งชาติ",
+      "MRT National Telecom",
+      "National Telecom MRT",
+      "PK13"
+    ]
+  },
+  {
+    "id": "mrt_lak_si_pink",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK14",
+    "canonicalName": "Lak Si",
+    "thaiName": "หลักสี่",
+    "aliases": [
+      "Lak Si",
+      "หลักสี่",
+      "MRT Lak Si",
+      "Lak Si MRT",
+      "PK14"
+    ]
+  },
+  {
+    "id": "mrt_rajabhat_phranakhon",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK15",
+    "canonicalName": "Rajabhat Phranakhon",
+    "thaiName": "ราชภัฏพระนคร",
+    "aliases": [
+      "Rajabhat Phranakhon",
+      "ราชภัฏพระนคร",
+      "MRT Rajabhat Phranakhon",
+      "Rajabhat Phranakhon MRT",
+      "PK15"
+    ]
+  },
+  {
+    "id": "mrt_wat_phra_sri_mahathat",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK16",
+    "canonicalName": "Wat Phra Sri Mahathat",
+    "thaiName": "วัดพระศรีมหาธาตุ",
+    "aliases": [
+      "Wat Phra Sri Mahathat",
+      "วัดพระศรีมหาธาตุ",
+      "MRT Wat Phra Sri Mahathat",
+      "Wat Phra Sri Mahathat MRT",
+      "PK16"
+    ]
+  },
+  {
+    "id": "mrt_ram_inthra_3",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK17",
+    "canonicalName": "Ram Inthra 3",
+    "thaiName": "รามอินทรา 3",
+    "aliases": [
+      "Ram Inthra 3",
+      "รามอินทรา 3",
+      "MRT Ram Inthra 3",
+      "Ram Inthra 3 MRT",
+      "PK17"
+    ]
+  },
+  {
+    "id": "mrt_lat_pla_khao",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK18",
+    "canonicalName": "Lat Pla Khao",
+    "thaiName": "ลาดปลาเค้า",
+    "aliases": [
+      "Lat Pla Khao",
+      "ลาดปลาเค้า",
+      "MRT Lat Pla Khao",
+      "Lat Pla Khao MRT",
+      "PK18"
+    ]
+  },
+  {
+    "id": "mrt_ram_inthra_kor_mor_4",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK19",
+    "canonicalName": "Ram Inthra Kor Mor 4",
+    "thaiName": "รามอินทรา ก.ม.4",
+    "aliases": [
+      "Ram Inthra Kor Mor 4",
+      "รามอินทรา ก.ม.4",
+      "MRT Ram Inthra Kor Mor 4",
+      "Ram Inthra Kor Mor 4 MRT",
+      "PK19"
+    ]
+  },
+  {
+    "id": "mrt_maiyalap",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK20",
+    "canonicalName": "Maiyalap",
+    "thaiName": "มัยลาภ",
+    "aliases": [
+      "Maiyalap",
+      "มัยลาภ",
+      "MRT Maiyalap",
+      "Maiyalap MRT",
+      "PK20"
+    ]
+  },
+  {
+    "id": "mrt_vacharaphol",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK21",
+    "canonicalName": "Vacharaphol",
+    "thaiName": "วัชรพล",
+    "aliases": [
+      "Vacharaphol",
+      "วัชรพล",
+      "MRT Vacharaphol",
+      "Vacharaphol MRT",
+      "PK21"
+    ]
+  },
+  {
+    "id": "mrt_ram_inthra_kor_mor_6",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK22",
+    "canonicalName": "Ram Inthra Kor Mor 6",
+    "thaiName": "รามอินทรา ก.ม.6",
+    "aliases": [
+      "Ram Inthra Kor Mor 6",
+      "รามอินทรา ก.ม.6",
+      "MRT Ram Inthra Kor Mor 6",
+      "Ram Inthra Kor Mor 6 MRT",
+      "PK22"
+    ]
+  },
+  {
+    "id": "mrt_khu_bon",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK23",
+    "canonicalName": "Khu Bon",
+    "thaiName": "คู้บอน",
+    "aliases": [
+      "Khu Bon",
+      "คู้บอน",
+      "MRT Khu Bon",
+      "Khu Bon MRT",
+      "PK23"
+    ]
+  },
+  {
+    "id": "mrt_ram_inthra_kor_mor_9",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK24",
+    "canonicalName": "Ram Inthra Kor Mor 9",
+    "thaiName": "รามอินทรา ก.ม.9",
+    "aliases": [
+      "Ram Inthra Kor Mor 9",
+      "รามอินทรา ก.ม.9",
+      "MRT Ram Inthra Kor Mor 9",
+      "Ram Inthra Kor Mor 9 MRT",
+      "PK24"
+    ]
+  },
+  {
+    "id": "mrt_outer_ring_road_ram_inthra",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK25",
+    "canonicalName": "Outer Ring Road - Ram Inthra",
+    "thaiName": "วงแหวนรามอินทรา",
+    "aliases": [
+      "Outer Ring Road - Ram Inthra",
+      "วงแหวนรามอินทรา",
+      "MRT Outer Ring Road - Ram Inthra",
+      "Outer Ring Road - Ram Inthra MRT",
+      "PK25"
+    ]
+  },
+  {
+    "id": "mrt_nopparat",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK26",
+    "canonicalName": "Nopparat",
+    "thaiName": "นพรัตน์",
+    "aliases": [
+      "Nopparat",
+      "นพรัตน์",
+      "MRT Nopparat",
+      "Nopparat MRT",
+      "PK26"
+    ]
+  },
+  {
+    "id": "mrt_bang_chan",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK27",
+    "canonicalName": "Bang Chan",
+    "thaiName": "บางชัน",
+    "aliases": [
+      "Bang Chan",
+      "บางชัน",
+      "MRT Bang Chan",
+      "Bang Chan MRT",
+      "PK27"
+    ]
+  },
+  {
+    "id": "mrt_setthabutbamphen",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK28",
+    "canonicalName": "Setthabutbamphen",
+    "thaiName": "เศรษฐบุตรบำเพ็ญ",
+    "aliases": [
+      "Setthabutbamphen",
+      "เศรษฐบุตรบำเพ็ญ",
+      "MRT Setthabutbamphen",
+      "Setthabutbamphen MRT",
+      "PK28"
+    ]
+  },
+  {
+    "id": "mrt_min_buri_market",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK29",
+    "canonicalName": "Min Buri Market",
+    "thaiName": "ตลาดมีนบุรี",
+    "aliases": [
+      "Min Buri Market",
+      "ตลาดมีนบุรี",
+      "MRT Min Buri Market",
+      "Min Buri Market MRT",
+      "PK29"
+    ]
+  },
+  {
+    "id": "mrt_min_buri",
+    "system": "MRT",
+    "line": "Pink",
+    "code": "PK30",
+    "canonicalName": "Min Buri",
+    "thaiName": "มีนบุรี",
+    "aliases": [
+      "Min Buri",
+      "มีนบุรี",
+      "MRT Min Buri",
+      "Min Buri MRT",
+      "PK30"
+    ]
+  },
+  {
+    "id": "arl_suvarnabhumi",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A1",
+    "canonicalName": "Suvarnabhumi",
+    "thaiName": "สุวรรณภูมิ",
+    "aliases": [
+      "Suvarnabhumi",
+      "สุวรรณภูมิ",
+      "ARL Suvarnabhumi",
+      "Suvarnabhumi ARL",
+      "A1",
+      "Suvarnabhumi Airport"
+    ]
+  },
+  {
+    "id": "arl_lat_krabang",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A2",
+    "canonicalName": "Lat Krabang",
+    "thaiName": "ลาดกระบัง",
+    "aliases": [
+      "Lat Krabang",
+      "ลาดกระบัง",
+      "ARL Lat Krabang",
+      "Lat Krabang ARL",
+      "A2"
+    ]
+  },
+  {
+    "id": "arl_ban_thap_chang",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A3",
+    "canonicalName": "Ban Thap Chang",
+    "thaiName": "บ้านทับช้าง",
+    "aliases": [
+      "Ban Thap Chang",
+      "บ้านทับช้าง",
+      "ARL Ban Thap Chang",
+      "Ban Thap Chang ARL",
+      "A3"
+    ]
+  },
+  {
+    "id": "arl_hua_mak",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A4",
+    "canonicalName": "Hua Mak",
+    "thaiName": "หัวหมาก",
+    "aliases": [
+      "Hua Mak",
+      "หัวหมาก",
+      "ARL Hua Mak",
+      "Hua Mak ARL",
+      "A4"
+    ]
+  },
+  {
+    "id": "arl_ramkhamhaeng",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A5",
+    "canonicalName": "Ramkhamhaeng",
+    "thaiName": "รามคำแหง",
+    "aliases": [
+      "Ramkhamhaeng",
+      "รามคำแหง",
+      "ARL Ramkhamhaeng",
+      "Ramkhamhaeng ARL",
+      "A5"
+    ]
+  },
+  {
+    "id": "arl_makkasan",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A6",
+    "canonicalName": "Makkasan",
+    "thaiName": "มักกะสัน",
+    "aliases": [
+      "Makkasan",
+      "มักกะสัน",
+      "ARL Makkasan",
+      "Makkasan ARL",
+      "A6"
+    ]
+  },
+  {
+    "id": "arl_ratchaprarop",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A7",
+    "canonicalName": "Ratchaprarop",
+    "thaiName": "ราชปรารภ",
+    "aliases": [
+      "Ratchaprarop",
+      "ราชปรารภ",
+      "ARL Ratchaprarop",
+      "Ratchaprarop ARL",
+      "A7"
+    ]
+  },
+  {
+    "id": "arl_phaya_thai",
+    "system": "ARL",
+    "line": "Airport Rail Link",
+    "code": "A8",
+    "canonicalName": "Phaya Thai",
+    "thaiName": "พญาไท",
+    "aliases": [
+      "Phaya Thai",
+      "พญาไท",
+      "ARL Phaya Thai",
+      "Phaya Thai ARL",
+      "A8"
+    ]
+  },
+  {
+    "id": "srt_krung_thep_aphiwat_central_dark_red",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN01",
+    "canonicalName": "Krung Thep Aphiwat Central",
+    "thaiName": "กลางกรุงเทพอภิวัฒน์",
+    "aliases": [
+      "Krung Thep Aphiwat Central",
+      "กลางกรุงเทพอภิวัฒน์",
+      "SRT Krung Thep Aphiwat Central",
+      "Krung Thep Aphiwat Central SRT",
+      "RN01"
+    ]
+  },
+  {
+    "id": "srt_chatuchak",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN02",
+    "canonicalName": "Chatuchak",
+    "thaiName": "จตุจักร",
+    "aliases": [
+      "Chatuchak",
+      "จตุจักร",
+      "SRT Chatuchak",
+      "Chatuchak SRT",
+      "RN02"
+    ]
+  },
+  {
+    "id": "srt_wat_samian_nari",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN03",
+    "canonicalName": "Wat Samian Nari",
+    "thaiName": "วัดเสมียนนารี",
+    "aliases": [
+      "Wat Samian Nari",
+      "วัดเสมียนนารี",
+      "SRT Wat Samian Nari",
+      "Wat Samian Nari SRT",
+      "RN03"
+    ]
+  },
+  {
+    "id": "srt_bang_khen",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN04",
+    "canonicalName": "Bang Khen",
+    "thaiName": "บางเขน",
+    "aliases": [
+      "Bang Khen",
+      "บางเขน",
+      "SRT Bang Khen",
+      "Bang Khen SRT",
+      "RN04"
+    ]
+  },
+  {
+    "id": "srt_thung_song_hong",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN05",
+    "canonicalName": "Thung Song Hong",
+    "thaiName": "ทุ่งสองห้อง",
+    "aliases": [
+      "Thung Song Hong",
+      "ทุ่งสองห้อง",
+      "SRT Thung Song Hong",
+      "Thung Song Hong SRT",
+      "RN05"
+    ]
+  },
+  {
+    "id": "srt_lak_si",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN06",
+    "canonicalName": "Lak Si",
+    "thaiName": "หลักสี่",
+    "aliases": [
+      "Lak Si",
+      "หลักสี่",
+      "SRT Lak Si",
+      "Lak Si SRT",
+      "RN06"
+    ]
+  },
+  {
+    "id": "srt_kan_kheha",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN07",
+    "canonicalName": "Kan Kheha",
+    "thaiName": "การเคหะ",
+    "aliases": [
+      "Kan Kheha",
+      "การเคหะ",
+      "SRT Kan Kheha",
+      "Kan Kheha SRT",
+      "RN07"
+    ]
+  },
+  {
+    "id": "srt_don_mueang",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN08",
+    "canonicalName": "Don Mueang",
+    "thaiName": "ดอนเมือง",
+    "aliases": [
+      "Don Mueang",
+      "ดอนเมือง",
+      "SRT Don Mueang",
+      "Don Mueang SRT",
+      "RN08",
+      "Don Muang"
+    ]
+  },
+  {
+    "id": "srt_lak_hok",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN09",
+    "canonicalName": "Lak Hok (Rangsit University)",
+    "thaiName": "หลักหก (มหาวิทยาลัยรังสิต)",
+    "aliases": [
+      "Lak Hok (Rangsit University)",
+      "หลักหก (มหาวิทยาลัยรังสิต)",
+      "SRT Lak Hok (Rangsit University)",
+      "Lak Hok (Rangsit University) SRT",
+      "RN09",
+      "Lak Hok"
+    ]
+  },
+  {
+    "id": "srt_rangsit",
+    "system": "SRT",
+    "line": "Dark Red",
+    "code": "RN10",
+    "canonicalName": "Rangsit",
+    "thaiName": "รังสิต",
+    "aliases": [
+      "Rangsit",
+      "รังสิต",
+      "SRT Rangsit",
+      "Rangsit SRT",
+      "RN10"
+    ]
+  },
+  {
+    "id": "srt_krung_thep_aphiwat_central_light_red",
+    "system": "SRT",
+    "line": "Light Red",
+    "code": "RW01",
+    "canonicalName": "Krung Thep Aphiwat Central",
+    "thaiName": "กลางกรุงเทพอภิวัฒน์",
+    "aliases": [
+      "Krung Thep Aphiwat Central",
+      "กลางกรุงเทพอภิวัฒน์",
+      "SRT Krung Thep Aphiwat Central",
+      "Krung Thep Aphiwat Central SRT",
+      "RW01"
+    ]
+  },
+  {
+    "id": "srt_bang_son",
+    "system": "SRT",
+    "line": "Light Red",
+    "code": "RW02",
+    "canonicalName": "Bang Son",
+    "thaiName": "บางซ่อน",
+    "aliases": [
+      "Bang Son",
+      "บางซ่อน",
+      "SRT Bang Son",
+      "Bang Son SRT",
+      "RW02"
+    ]
+  },
+  {
+    "id": "srt_bang_bamru",
+    "system": "SRT",
+    "line": "Light Red",
+    "code": "RW05",
+    "canonicalName": "Bang Bamru",
+    "thaiName": "บางบำหรุ",
+    "aliases": [
+      "Bang Bamru",
+      "บางบำหรุ",
+      "SRT Bang Bamru",
+      "Bang Bamru SRT",
+      "RW05"
+    ]
+  },
+  {
+    "id": "srt_taling_chan",
+    "system": "SRT",
+    "line": "Light Red",
+    "code": "RW06",
+    "canonicalName": "Taling Chan",
+    "thaiName": "ตลิ่งชัน",
+    "aliases": [
+      "Taling Chan",
+      "ตลิ่งชัน",
+      "SRT Taling Chan",
+      "Taling Chan SRT",
+      "RW06"
+    ]
+  }
+]

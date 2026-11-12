@@ -1,0 +1,32 @@
+[
+  {
+    "id": "bus_opposite_centralworld",
+    "canonicalName": "Opposite CentralWorld",
+    "aliases": [
+      "Opposite CentralWorld",
+      "Opposite Central World",
+      "ตรงข้ามเซ็นทรัลเวิลด์"
+    ],
+    "routes": [
+      "2",
+      "25",
+      "40",
+      "48",
+      "511"
+    ]
+  },
+  {
+    "id": "bus_siam",
+    "canonicalName": "Siam",
+    "aliases": [
+      "Siam",
+      "สยาม"
+    ],
+    "routes": [
+      "2",
+      "4",
+      "6",
+      "7"
+    ]
+  }
+]

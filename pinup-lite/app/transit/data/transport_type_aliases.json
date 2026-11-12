@@ -1,0 +1,18 @@
+{
+  "bts": "bts",
+  "bts station": "bts",
+  "mrt": "mrt",
+  "mrt station": "mrt",
+  "metro": "mrt",
+  "brt": "brt",
+  "brt station": "brt",
+  "port": "port",
+  "pier": "port",
+  "harbor": "port",
+  "harbour": "port",
+  "ท่าเรือ": "port",
+  "bus": "bus",
+  "bus station": "bus",
+  "รถประจำทาง": "bus",
+  "รถเมล์": "bus"
+}
